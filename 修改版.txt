@@ -15,7 +15,7 @@
       "name": "肥猫线路1"
     },
     {
-      "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
+      "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
       "name": "PG"
     },
     {
@@ -32,11 +32,11 @@
     },    
     {
       "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "小米线路"
+      “名称”：“小米线路”
     },
     {
       "url": "https://xhdwc.tk/0",
-      "name": "RAY线路"
+      “名称”：“射线线路”
     },
     {
       "url": "http://home.jundie.top:81/top98.json",
@@ -48,7 +48,7 @@
     },
     {
       "url": "https://raw.liucn.cc/box/m.json",
-      "name": "老刘备线路"
+      "name": "老刘备线"
     },
     {
       "url": "https://tvbox.cainisi.cf",
@@ -56,10 +56,10 @@
     },
     {
       "url": "https://la.kstore.space/download/2863/01.txt",
-      "name": "潇洒线路"
+      “名称”：“潇洒线路”
     },
     {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "url": "https://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
       "name": "南风线路"
     },
     {
@@ -95,7 +95,7 @@
         "name": "星辰线路"
       },
       {
-        "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+        "url": "https://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
         "name": "分享者线路"
       },
       {
@@ -115,11 +115,11 @@
         "name": "万达线路"
       },
       {
-        "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/Pandora.json",
+        "url": "https://152.32.170.60/kvymin/TVRule/raw/branch/master/config.json",
         "name": "kvymin线路"
       },
       {
-        "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+        "url": "https://152.32.170.60/n/b/raw/commit/78e51513a040c6e85374811feadbec3759097751/o/1.json",
         "name": "abc线路"
       },
       {
@@ -314,12 +314,12 @@
     },
 
     {
-      "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt",
-      "name": "PY最新"
+      "url": "https://152.32.170.60/hu/hcr/raw/branch/master/10086.txt",
+      “名称”：“PY最新”
     },
     {
-      "url": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json",
-      "name": "YSTV线路"
+      "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
+      “名称”：“YSTV节目”
     }
 
   ]
