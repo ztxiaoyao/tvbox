@@ -17,7 +17,7 @@
       "name": "肥猫线路1"
     },
     {
-      "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
+      "url": "https://152.32.170.60/leevi/PG/raw/branch/master/jsm.json",
       "name": "PG"
     },
     {
@@ -65,7 +65,7 @@
       "name": "潇洒线路1"
     },
     {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "url": "https://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
       "name": "南风线路"
     },
     {
@@ -101,7 +101,7 @@
         "name": "星辰线路"
       },
       {
-        "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+        "url": "https://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
         "name": "分享者线路"
       },
       {
@@ -121,11 +121,11 @@
         "name": "万达线路"
       },
       {
-        "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/Pandora.json",
+        "url": "https://152.32.170.60/kvymin/TVBox/raw/branch/master/Pandora.json",
         "name": "kvymin线路"
       },
       {
-        "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+        "url": "https://152.32.170.60/n/b/raw/branch/a/b/c.json",
         "name": "abc线路"
       },
       {
