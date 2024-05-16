@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "💕自用仓库💕",
-            "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
+            "sourceUrl": "https://raw.kkgithub.com/ztxiaoyao/tvbox/main/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
         },
         {
             "sourceName": "雷蒙影视多仓库",
