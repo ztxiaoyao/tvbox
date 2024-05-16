@@ -1,0 +1,269 @@
+{
+    "urls": [
+        {
+            "name": "自用搬运大佬的接口 ",
+            "url": "http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json"
+        },
+        {
+            "name": "祝嫙宝宝的家人们开心每一天",
+            "url": "http://39.101.135.137:8080"
+        },
+        {
+            "url": "http://fan.888484.xyz/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
+            "name": "陆哥专用"
+        },
+        {
+            "url": "http://肥猫.live",
+            "name": "专心养肥猫"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "pit自用线路"
+        },
+        {
+            "name": "🐟春盈天下备用🐟",
+            "url": "https://盒子迷.top/春盈天下"
+        },
+        {
+            "url": "https://notabug.org/kite/feng/raw/master/feng.json",
+            "name": "fang最新"
+        },
+        {
+            "url": "https://gitee.com/okjack/okk/raw/master/ok.txt",
+            "name": "ok最新"
+        },
+        {
+            "url": "https://盒子迷.top/禁止贩卖",
+            "name": "盒子迷"
+        },
+        {
+            "url": "https://盒子迷.top/4K",
+            "name": "盒子迷4K"
+        },
+        {
+            "url": "https://安卓哥.com/",
+            "name": "安卓哥"
+        },
+        {
+            "url": "https://gitee.com/ztxiaoyao/tv/raw/master/zb.json",
+            "name": "安卓哥zb"
+        },
+        {
+            "url": "https://hezi.tvboxhz.top/TVBOX盒子",
+            "name": "TVBOX盒子"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼儿"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json",
+            "name": "柠檬影视"
+        },
+        {
+            "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
+            "name": "PG路线"
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "找到一个道长"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "居然谈香雅情"
+        },
+        {
+            "url": "https://lem85930.github.io/JN/lem.json",
+            "name": "雷蒙线路"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "RAY线路"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊佬线路"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "老刘备线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+            "name": "宝盒pig"
+        },
+        {
+            "url": "https://cn.kstore.space/download/2863/01.txt",
+            "name": "潇洒线路"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风线路"
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "D佬魔改线路"
+        },
+        {
+            "url": "http://rihou.vip:55/天天开心",
+            "name": "开心线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
+            "name": "月光宝盒box"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+            "name": "月光宝盒pro"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "name": "月光宝盒max"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
+            "name": "宝盒影视"
+        },
+        {
+            "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖 ",
+            "name": "无界线路"
+        },
+        {
+            "url": "http://a.nxog.top/api.php?id=4&b=欧歌",
+            "name": "讴歌专线"
+        },
+        {
+            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+            "name": "吾爱线路"
+        },
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "星云日记"
+        },
+        {
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "运输车线路"
+        },
+        {
+            "url": "http://8.210.232.168/xc.json",
+            "name": "星辰线路"
+        },
+        {
+            "url": "https://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "分享者线路"
+        },
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "喵影视线路"
+        },
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "万达线路"
+        },
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+            "name": "不良帅线路"
+        },
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "小胡线路"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "小马线路"
+        },
+        {
+            "url": "https://tv.lan2wan.top/candymuj.json",
+            "name": "看电影"
+        },
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "荷城茶秀"
+        },
+        {
+            "url": "https://152.32.170.60/guot54/ygbh/raw/branch/master/h/pro24.json",
+            "name": "夜猫子"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "高天流水"
+        },
+        {
+            "url": "https://lltv8.top",
+            "name": "猎狼"
+        },
+        {
+            // "url": "https://wds.ecsxs.com/230989.json",
+            "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css",
+            "name": "🚀春盈线路"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技线路"
+        },
+        {
+            "url": "http://www.wya6.cn/tv/yc.json",
+            "name": "无意线路"
+        },
+        {
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "name": "肥猫线路"
+        },
+        {
+            "name": "🏆蓅昀",
+            "url": "http://152.32.170.60/1018610504/liuyun/raw/branch/master/%e7%90%89%e8%8a%b8.json"
+        },
+        {
+            "url": "https://qixing.myhkw.com/tianwei/svip.json",
+            "name": "🚀天微影视VIP线🚀"
+        },
+        {
+            "url": "http://qixing.myhkw.com/QX/api.json",
+            "name": "🚀七星影视VIP线"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀高天流云"
+        },
+        {
+            "url": "https://youdu.fan/tvbox/yd/svip.json",
+            "name": "毒盒影视VIP线🚀"
+        },
+        {
+            "url": "https://youdu.fan/tvbox/yd/yd.json",
+            "name": "毒盒影视"
+        },
+        {
+            "url": "https://tvkj.top/DC/ysc/tvkj/svip.json",
+            "name": "运输车vip"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅情线"
+        },
+        {
+            "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json",
+            "name": "心魔在线"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧技线"
+        },
+        {
+            "url": "https://jihulab.com/blank7355005/box/-/raw/main/0.json",
+            "name": "小盒酷玩"
+        },
+        {
+            "url": "https://152.32.170.60/hu/hcr/raw/branch/master/py3.txt",
+            "name": "PY最新"
+        },
+        {
+            "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
+            "name": "YSTV线路"
+        }
+    ]
+}
