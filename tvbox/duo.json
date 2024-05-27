@@ -1,0 +1,72 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/Pictures/tvbox/fty/fty.json",
+      "name": "🚀饭太硬线路"
+    },
+    {
+      "url": "clan://localhost/Pictures/tvbox/feimao/feimao.json",
+      "name": "🚀肥猫线路"
+    },
+    {
+      "url": "clan://localhost/Pictures/tvbox/OK/OK.json",
+      "name": "🚀OK线路"
+    },		
+    {
+      "url": "clan://localhost/Pictures/tvbox/PG/PG.json",
+      "name": "🚀PG线路"
+    },
+    {
+      "url": "clan://localhost/Pictures/tvbox/Ray/Ray.json",
+      "name": "🚀Ray线路"
+    },
+    {
+      "url": "clan://localhost/Pictures/tvbox/xiaomi/xiaomi.json",
+      "name": "🚀小米线路"
+    },
+    {
+      "url": "clan://localhost/Pictures/tvbox/hecheng/hecheng.json",
+      "name": "🚀荷城线路"
+    },	
+    {
+      "url": "clan://localhost/Pictures/tvbox/xiangyaqing/xiangyaqing.json",
+      "name": "🚀香雅情线路"
+    },	
+    {
+      "url": "clan://localhost/Pictures/tvbox/wuyi/wuyi.json",
+      "name": "🚀无意线路"
+    },
+    {
+      "url": "clan://localhost/Pictures/tvbox/moyu/moyu.json",
+      "name": "🚀摸鱼线路"
+    },		
+    {
+      "url": "clan://localhost/Pictures/tvbox/ouge/ouge.json",
+      "name": "🚀欧歌线路"
+    },	
+    {
+      "url": "clan://localhost/Pictures/tvbox/kaixin/kaixin.json",
+      "name": "🚀开心线路"
+    },	
+    {
+      "url": "clan://localhost/Pictures/tvbox/dongchen/dongchen.json",
+      "name": "🚀东辰线路"
+    },  	
+    {
+      "url": "clan://localhost/Pictures/tvbox/yeyu/yeyu.json",
+      "name": "🚀业余线路"
+    },		
+    {
+      "url": "clan://localhost/Pictures/tvbox/gaotianliuyun/gaotianliuyun.json",
+      "name": "🚀高天线路"
+    },		
+    {
+      "url": "clan://localhost/Pictures/tvbox/nanfeng/nanfeng.json",
+      "name": "🚀南风线路"
+    },
+    {
+      "url": "clan://localhost/Pictures/tvbox/shenxian/shenxian.json",
+      "name": "🚀神仙线路"
+    }	
+  ]
+}
